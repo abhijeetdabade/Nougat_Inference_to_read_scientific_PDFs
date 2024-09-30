@@ -1,0 +1,6 @@
+
+Pillow
+PyMuPDF
+huggingface_hub
+torch
+transformers
