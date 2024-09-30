@@ -1,0 +1,19 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Ignore data files (optional)
+*.csv
+*.json
+*.pkl
+*.h5
+*.xlsx
